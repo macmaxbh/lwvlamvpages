@@ -1,4 +1,4 @@
-# The League of Women Voters of the Los Altos-Mountain View Area website is down right now
+# Our main website is down right now
 Our hosting service has [suffered a catastrophic failure](https://forums.mddhosting.com/topic/1582-major-outage-092118-09222018/) and is currently recovering all data from backups. We also have stood up a [copy of our website](http://lwvlamv.dreamhosters.com) from restoring our own offsite backup, but DNS is still propogating.
 
 ## Events
